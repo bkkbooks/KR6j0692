@@ -1,0 +1,334 @@
+canonical_identifier: bkk:krp/KR6j0692/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0692/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經玄義
+  identifiers:
+    krp: KR6j0692
+    cbeta: X13n0284
+    cbeta_old_id: X13n0284
+    authorityid: CA0001997
+    json_key: X0284
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X13/X13n0284.xml
+    old_id: X13n0284
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0692_000-X.yaml, hash: 'sha256:6fbde404eb55112aa1b9fb885001dccc402d87b2f9024bd4f9283afa0eb443b9'}
+  - {seq: 1, filename: KR6j0692_001-X.yaml, hash: 'sha256:5260556b796424d1e3ba7257df6fa22d67fa3294362c01974ec5292b4d66bad4'}
+  - {seq: 2, filename: KR6j0692_002-X.yaml, hash: 'sha256:7bd3e9c038ec63ca0bfeb5a83c74f1365571e706d56a86cc45b23a9702093624'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0692_000-X.markers.yaml, hash: 'sha256:9c541a5f30f8aa388b1eb893dbfb3368a4aa8cd9d871eb521a17b514ea77ad13'}
+  - {seq: 1, role: markers, filename: assets/KR6j0692_001-X.markers.yaml, hash: 'sha256:8d548ffa0e2d4da19c5ecdfe8fb997c5a6e835c87f20c7ca67437780c1bd034b'}
+  - {seq: 2, role: markers, filename: assets/KR6j0692_002-X.markers.yaml, hash: 'sha256:ed5d421535152d90810303e809b22fa218d1f2f3b8e0e4609d98e900b1f6692f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0692_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 284-A 重刻大佛頂經玄文序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0692_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16096
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    玄義卷上并序'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0692_X_001-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0692_X_001-mulu-2
+    span:
+    - body
+    - 511
+    - 511
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0692_X_001-mulu-3
+    span:
+    - body
+    - 586
+    - 586
+  label: 初彰存略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0692_X_001-mulu-4
+    span:
+    - body
+    - 946
+    - 946
+  label: 次正解釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15560
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    玄義卷下'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 第二顯體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-2
+    span:
+    - body
+    - 79
+    - 79
+  label: 初明須顯體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-3
+    span:
+    - body
+    - 283
+    - 283
+  label: 二釋體義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-4
+    span:
+    - body
+    - 671
+    - 671
+  label: 三正出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-5
+    span:
+    - body
+    - 1381
+    - 1381
+  label: 四引證
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-6
+    span:
+    - body
+    - 1670
+    - 1670
+  label: 五會通異名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-7
+    span:
+    - body
+    - 2454
+    - 2454
+  label: 六廣簡偽濫
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-8
+    span:
+    - body
+    - 5829
+    - 5829
+  label: 七明入體之門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-9
+    span:
+    - body
+    - 8995
+    - 8995
+  label: 八明如來藏性徧為眾經體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-10
+    span:
+    - body
+    - 9208
+    - 9208
+  label: 九徧為諸行體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-11
+    span:
+    - body
+    - 10050
+    - 10050
+  label: 十明徧為一切法體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-12
+    span:
+    - body
+    - 10401
+    - 10401
+  label: 第三明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-13
+    span:
+    - body
+    - 10439
+    - 10439
+  label: 一簡宗體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-14
+    span:
+    - body
+    - 10632
+    - 10632
+  label: 二正明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-15
+    span:
+    - body
+    - 11459
+    - 11459
+  label: 三諸教同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-16
+    span:
+    - body
+    - 11669
+    - 11669
+  label: 四結成因果
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-17
+    span:
+    - body
+    - 12108
+    - 12108
+  label: 第四辨用
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-18
+    span:
+    - body
+    - 12168
+    - 12168
+  label: 一簡宗用
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-19
+    span:
+    - body
+    - 12263
+    - 12263
+  label: 二出舊解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-20
+    span:
+    - body
+    - 12484
+    - 12484
+  label: 三正明用
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-21
+    span:
+    - body
+    - 12872
+    - 12872
+  label: 第五明教相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-22
+    span:
+    - body
+    - 12929
+    - 12929
+  label: 言綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0692_X_002-mulu-23
+    span:
+    - body
+    - 13876
+    - 13876
+  label: 次正判此經
+  type: mulu
+  level: 1
+hash: sha256:272bb49d6582b688700cad7da1e8f5fe87a45f6fab0981757d956759c6831ce6
