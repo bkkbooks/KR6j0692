@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0692/v1
 canonical_location: https://kanripo.org/bkk/KR6j0692/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楞嚴經玄義
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0692_000.yaml, hash: 'sha256:6fbde404eb55112aa1b9fb885001dccc402d87b2f9024bd4f9283afa0eb443b9'}
-  - {seq: 1, filename: KR6j0692_001.yaml, hash: 'sha256:5260556b796424d1e3ba7257df6fa22d67fa3294362c01974ec5292b4d66bad4'}
-  - {seq: 2, filename: KR6j0692_002.yaml, hash: 'sha256:7bd3e9c038ec63ca0bfeb5a83c74f1365571e706d56a86cc45b23a9702093624'}
+  - {seq: 0, filename: KR6j0692_000.yaml, hash: 'sha256:6ab8aae8c996384e30472b160cc26c38a5eb3b4324f499a8c2d6b294faa457b3'}
+  - {seq: 1, filename: KR6j0692_001.yaml, hash: 'sha256:1d1fc6e03b95cd38c3b137ab7077046d326312030a2b7eaa27880c778203756a'}
+  - {seq: 2, filename: KR6j0692_002.yaml, hash: 'sha256:ae25ab8d13d84b9803ee9ea4cf297e469933deadd624230d5b2a705f85bab4bb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0692_000.markers.yaml, hash: 'sha256:274935323c720e8a4537d79874c8fcd714ca0753c18fca2f158aedbf14d8e1b5'}
-  - {seq: 1, role: markers, filename: assets/KR6j0692_001.markers.yaml, hash: 'sha256:e4af1ad1f82bee28ff2fc429a732faa4f67f89303c5a3cad61e3f80d4836ef6a'}
-  - {seq: 2, role: markers, filename: assets/KR6j0692_002.markers.yaml, hash: 'sha256:1f382ef26e4f0caac019cdd3d536e1d779c7802f6fdd08ce17abbcecc1ef5092'}
+  - {seq: 0, role: markers, filename: assets/KR6j0692_000.markers.yaml, hash: 'sha256:bc3b61ef498d8d5cc4771a4f37758d2eeedbecabd108f63dd850e6528520e704'}
+  - {seq: 1, role: markers, filename: assets/KR6j0692_001.markers.yaml, hash: 'sha256:0a6cac2ddabc7e764674a2f47dd36ef936a8b6f955737595dd622a4ad81a072b'}
+  - {seq: 2, role: markers, filename: assets/KR6j0692_002.markers.yaml, hash: 'sha256:b0c9ab83002b92e110dfce440ebb851921d62c5f1cd1b258c55372f85fa80680'}
 table_of_contents:
 - ref:
     seq: 0
@@ -333,4 +333,7 @@ table_of_contents:
   label: 次正判此經
   type: mulu
   level: 1
-hash: sha256:581679eac88801af931baf93d76857def84aa1cda17e7cf0f034fff5373338bb
+hash: sha256:75aa6d73cf53d4a81f19bbce3446304b7fe4782655a66d6dc363666a748382fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
