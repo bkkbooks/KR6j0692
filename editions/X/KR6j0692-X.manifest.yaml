@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0692_000-X.yaml, hash: 'sha256:6fbde404eb55112aa1b9fb885001dccc402d87b2f9024bd4f9283afa0eb443b9'}
+  - {seq: 0, filename: KR6j0692_000-X.yaml, hash: 'sha256:c84e2604854198168850a60dadfe1401b212751184d1ed809f8ea40f06de475b'}
   - {seq: 1, filename: KR6j0692_001-X.yaml, hash: 'sha256:5260556b796424d1e3ba7257df6fa22d67fa3294362c01974ec5292b4d66bad4'}
   - {seq: 2, filename: KR6j0692_002-X.yaml, hash: 'sha256:7bd3e9c038ec63ca0bfeb5a83c74f1365571e706d56a86cc45b23a9702093624'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0692_000-X.markers.yaml, hash: 'sha256:9c541a5f30f8aa388b1eb893dbfb3368a4aa8cd9d871eb521a17b514ea77ad13'}
+  - {seq: 0, role: markers, filename: assets/KR6j0692_000-X.markers.yaml, hash: 'sha256:e06c9a15f68324571c336f9549b17acea783ab3b512b2b43354261d7112fa761'}
   - {seq: 1, role: markers, filename: assets/KR6j0692_001-X.markers.yaml, hash: 'sha256:8d548ffa0e2d4da19c5ecdfe8fb997c5a6e835c87f20c7ca67437780c1bd034b'}
   - {seq: 2, role: markers, filename: assets/KR6j0692_002-X.markers.yaml, hash: 'sha256:ed5d421535152d90810303e809b22fa218d1f2f3b8e0e4609d98e900b1f6692f'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0692_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 284-A 重刻大佛頂經玄文序
@@ -331,4 +331,4 @@ table_of_contents:
   label: 次正判此經
   type: mulu
   level: 1
-hash: sha256:272bb49d6582b688700cad7da1e8f5fe87a45f6fab0981757d956759c6831ce6
+hash: sha256:1117a40e6cccc6d44736e3ff47ac2020ab10262dc67e7bba961eff34713c9541
